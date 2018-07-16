@@ -1,0 +1,21 @@
+Tower says: Baloon#B2(1) registered to weather tower.
+Tower says: JetPlane#J1(2) registered to weather tower.
+Tower says: Helicopter#H1(3) registered to weather tower.
+Baloon#B2(1): The rain ruins the vibe.
+JetPlane#J1(2): The rain is raining.
+Helicopter#H1(3): The snow makes us slow.
+Helicopter#H1(3) landing.
+Tower says: Helicopter#H1(3) unregistered from weather tower.
+Baloon#B2(1): Snow in my eyes.
+JetPlane#J1(2): Speeding through the fog.
+Baloon#B2(1): The rain ruins the vibe.
+JetPlane#J1(2): Melting in the blazing sun.
+Baloon#B2(1): Snow in my eyes.
+JetPlane#J1(2): Melting in the blazing sun.
+Baloon#B2(1): The rain ruins the vibe.
+JetPlane#J1(2): Melting in the blazing sun.
+Baloon#B2(1): Snow in my eyes.
+Baloon#B2(1) landing.
+Tower says: Baloon#B2(1) unregistered from weather tower.
+JetPlane#J1(2): Melting in the blazing sun.
+JetPlane#J1(2): Melting in the blazing sun.
